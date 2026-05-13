@@ -1,5 +1,5 @@
 # 💫 About Me:
-Quality Analyst | Mobile App Testing | Game Testing | API Testing 
+Quality Analyst | Software Tester | Mobile Application Tester | Game Tester | API 
 
 
 # 💻 Tech Stack:
